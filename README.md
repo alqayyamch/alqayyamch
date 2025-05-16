@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+Danmark+Loopet&weight=700&size=22&pause=1000&color=FFD580&width=435&lines=Welcome+to+the+zone+where+semicolons+matter+more+than+sleep." alt="Typing SVG" /></a>
+
+
 <h1 align="center">Hey 👋, I'm AL Qayyam</h1>
 
 <p align="center">
