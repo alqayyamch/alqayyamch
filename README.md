@@ -1,38 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm AL Qayyam</h1>
 
 <p align="center">
-  <svg width="100%" height="100" viewBox="0 0 1000 100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="40" font-family="Verdana" fill="none" stroke="gold" stroke-width="1"
-          stroke-dasharray="5% 10%" stroke-linecap="round">
-      Hey 👋, I'm AL Qayyam
-    </text>
-    <style>
-      text {
-        animation: dash 4s linear infinite;
-      }
-
-      @keyframes dash {
-        to {
-          stroke-dashoffset: -1000;
-        }
-      }
-    </style>
-  </svg>
+  <em>Backend Engineer 🧠 | Laravel Artisan ⚙️ | API Tamer 📡</em>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="200" alt="SpongeBob Coding"/>
+</p>
 
-<!--
-**alqayyamch/alqayyamch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a Software Engineer with a passion for building **scalable, dynamic web solutions**
+- ⚙️ I specialize in **PHP (Laravel)**, **JavaScript**, **jQuery**, and **RESTful APIs**
+- 🔗 Integrated with APIs like **Stripe, Twilio, Google Console**, and even **OpenAI**
+- 🔍 Dabbled with **Vector Databases (Pinecone)** for smart, AI-powered search
+- 🔁 Currently exploring **CI/CD**, containerization, and writing cleaner, smarter code
+
+---
+
+### 🧰 Tech Stack
+
+```text
+💻 Languages: PHP, JavaScript, SQL
+🧰 Frameworks: Laravel, Livewire
+🔌 APIs: Stripe, Twilio, Google Console, OpenAI
+🧠 AI Tools: Pinecone, LangChain
+🧪 Dev Tools: Git, Postman, VS Code
+☁️ Learning: Docker, GitHub Actions (CI/CD), AWS
