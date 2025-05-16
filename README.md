@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm AL Qayyam</h1>
 
 <p align="center">
-  <em>Backend Engineer 🧠 | Laravel Artisan ⚙️ | API Tamer 📡</em>
+  <em>Software Engineer 🧠 | Laravel Developer ⚙️ | API Tamer 📡</em>
 </p>
 
 <p align="center">
