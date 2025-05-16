@@ -8,18 +8,6 @@
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="200" alt="SpongeBob Coding"/>
 </p>
 
----
-
-### 🚀 About Me
-
-- 💻 I'm a Software Engineer with a passion for building **scalable, dynamic web solutions**
-- ⚙️ I specialize in **PHP (Laravel)**, **JavaScript**, **jQuery**, and **RESTful APIs**
-- 🔗 Integrated with APIs like **Stripe, Twilio, Google Console**, and even **OpenAI**
-- 🔍 Dabbled with **Vector Databases (Pinecone)** for smart, AI-powered search
-- 🔁 Currently exploring **CI/CD**, containerization, and writing cleaner, smarter code
-
----
-
 <details>
 <summary>🧰 Tech Stack </summary>
 <br>
@@ -34,3 +22,15 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 </details>
+---
+
+### 🚀 About Me
+
+- 💻 I'm a Software Engineer with a passion for building **scalable, dynamic web solutions**
+- ⚙️ I specialize in **PHP (Laravel)**, **JavaScript**, **jQuery**, and **RESTful APIs**
+- 🔗 Integrated with APIs like **Stripe, Twilio, Google Console**, and even **OpenAI**
+- 🔍 Dabbled with **Vector Databases (Pinecone)** for smart, AI-powered search
+- 🔁 Currently exploring **CI/CD**, containerization, and writing cleaner, smarter code
+
+---
+
