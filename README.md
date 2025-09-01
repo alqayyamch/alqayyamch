@@ -2,6 +2,9 @@
 
 <p align="center">
   <em>Software Engineer 🧠 | Full Stack Developer | LAMP Stack Developer | Laravel Developer | MERN Stack Developer | API Tamer 📡</em>
+</p>
+
+<p align="center">
   <em>Powered by caffeine ☕</em>
 </p>
 
